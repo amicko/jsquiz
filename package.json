@@ -1,0 +1,20 @@
+{
+  "name": "js-quiz",
+  "version": "1.0.0",
+  "description": "JavaScript Quiz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "quiz",
+    "html",
+    "css"
+  ],
+  "author": "Aaron Micko",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^3.0.0"
+  }
+}
